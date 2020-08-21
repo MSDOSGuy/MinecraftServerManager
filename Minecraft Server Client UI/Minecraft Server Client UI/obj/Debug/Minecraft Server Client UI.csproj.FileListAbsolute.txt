@@ -1,0 +1,10 @@
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\bin\Debug\Minecraft Server Client UI.exe.config
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\bin\Debug\Minecraft Server Client UI.exe
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\bin\Debug\Minecraft Server Client UI.pdb
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft Server Client UI.csprojAssemblyReference.cache
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft_Server_Client_UI.Form1.resources
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft_Server_Client_UI.Properties.Resources.resources
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft Server Client UI.csproj.GenerateResource.cache
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft Server Client UI.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft Server Client UI.exe
+C:\Users\Mikey\source\repos\Minecraft Server Client UI\Minecraft Server Client UI\obj\Debug\Minecraft Server Client UI.pdb
