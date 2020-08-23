@@ -518,7 +518,7 @@ namespace Minecraft_Server_Client_UI
 
         }
         #endregion browse
-        #region unit of time
+        #region comboboxpaint
         private void comboBox1_DrawItem(object sender, DrawItemEventArgs e)
         {
             int index = e.Index >= 0 ? e.Index : 0;
